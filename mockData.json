@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "title" : "Tâm lý học về tiền",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "price": 150000,
+        "imgUrl": "./assets/images/book-01.jpg"
+    },
+    {
+        "id" : 2,
+        "title" : "Thấu hiểu tiếp thị",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "price": 150000,
+        "imgUrl": "./assets/images/book-02.jpg"
+    },
+    {
+        "id" : 3,
+        "title" : "Từ tốt đến vĩ đại",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "price": 150000,
+        "imgUrl": "./assets/images/book-03.jpg"
+    },
+    {
+        "id" : 4,
+        "title" : "Nếu biết trăm năm là hữu hạn",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "price": 150000,
+        "imgUrl": "./assets/images/book-04.png"
+    },
+    {
+        "id" : 5,
+        "title" : "Nghĩ giàu làm giàu",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "price": 150000,
+        "imgUrl": "./assets/images/book-05.jpg"
+    }
+]
